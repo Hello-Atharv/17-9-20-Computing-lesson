@@ -18,6 +18,21 @@ namespace Computing_17_9_20
 
             Console.WriteLine("Number: {0:N}", 5.5676);
 
+            double myDouble = 9.786;
+            int myInt = (int)myDouble;    // Manual casting: double to int
+
+            Console.WriteLine(myDouble);   // Outputs 9.78
+            Console.WriteLine(myInt);      // Outputs 9
+
+            int Int = 10;
+            double Double = 5.25;
+            bool Bool = true;
+
+            Console.WriteLine(Convert.ToString(Int));    // convert int to string
+            Console.WriteLine(Convert.ToDouble(Int));    // convert int to double
+            Console.WriteLine(Convert.ToInt32(Double));  // convert double to int
+            Console.WriteLine(Convert.ToString(Bool));   // convert bool to string
+
             Console.ReadLine();
 
         }
