@@ -10,8 +10,11 @@ namespace Computing_17_9_20
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+         
+            double x = 1.2345443542454324d;
+            Console.WriteLine("3 d.p: {0:0.000}", x);
             Console.ReadLine();
+
         }
     }
 }

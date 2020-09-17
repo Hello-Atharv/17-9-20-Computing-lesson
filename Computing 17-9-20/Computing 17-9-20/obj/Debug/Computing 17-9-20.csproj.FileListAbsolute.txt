@@ -5,3 +5,10 @@ C:\Users\amit_\OneDrive\Desktop\Github\Computing 17-9-20\Computing 17-9-20\obj\D
 C:\Users\amit_\OneDrive\Desktop\Github\Computing 17-9-20\Computing 17-9-20\obj\Debug\Computing 17-9-20.csproj.CoreCompileInputs.cache
 C:\Users\amit_\OneDrive\Desktop\Github\Computing 17-9-20\Computing 17-9-20\obj\Debug\Computing 17-9-20.exe
 C:\Users\amit_\OneDrive\Desktop\Github\Computing 17-9-20\Computing 17-9-20\obj\Debug\Computing 17-9-20.pdb
+C:\Users\amit_\OneDrive\Desktop\Github\17-9-20 Computing\Computing 17-9-20\Computing 17-9-20\bin\Debug\Computing 17-9-20.exe.config
+C:\Users\amit_\OneDrive\Desktop\Github\17-9-20 Computing\Computing 17-9-20\Computing 17-9-20\bin\Debug\Computing 17-9-20.exe
+C:\Users\amit_\OneDrive\Desktop\Github\17-9-20 Computing\Computing 17-9-20\Computing 17-9-20\bin\Debug\Computing 17-9-20.pdb
+C:\Users\amit_\OneDrive\Desktop\Github\17-9-20 Computing\Computing 17-9-20\Computing 17-9-20\obj\Debug\Computing 17-9-20.csprojAssemblyReference.cache
+C:\Users\amit_\OneDrive\Desktop\Github\17-9-20 Computing\Computing 17-9-20\Computing 17-9-20\obj\Debug\Computing 17-9-20.csproj.CoreCompileInputs.cache
+C:\Users\amit_\OneDrive\Desktop\Github\17-9-20 Computing\Computing 17-9-20\Computing 17-9-20\obj\Debug\Computing 17-9-20.exe
+C:\Users\amit_\OneDrive\Desktop\Github\17-9-20 Computing\Computing 17-9-20\Computing 17-9-20\obj\Debug\Computing 17-9-20.pdb
