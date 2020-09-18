@@ -33,6 +33,22 @@ namespace Computing_17_9_20
             Console.WriteLine(Convert.ToInt32(Double));  // convert double to int
             Console.WriteLine(Convert.ToString(Bool));   // convert bool to string
 
+            Console.WriteLine("Enter a number:");
+            string number1 = Console.ReadLine();
+            double num1 = Convert.ToDouble(number1);
+
+            Console.WriteLine("Enter another number:");
+            string number2 = Console.ReadLine();
+            double num2 = Convert.ToDouble(number2);
+
+            Console.WriteLine(num1 + num2);
+            Console.WriteLine(num1 - num2);
+            Console.WriteLine(num1 * num2);
+            Console.WriteLine(num1 / num2);
+            Console.WriteLine(Math.Pow(num1,num2));
+            Console.WriteLine(Math.Sqrt(num1));
+            Console.WriteLine(Math.Sqrt(num2));
+
             Console.ReadLine();
 
         }
